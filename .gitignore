@@ -1,0 +1,5 @@
+build/
+node_modules/
+.secret
+.secretInfura
+.DS_Store
